@@ -3,6 +3,7 @@ name: package
 on:
   push:
     branches:
+      - feature
       - feature/**
       - develop
       - main
